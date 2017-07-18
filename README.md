@@ -1,15 +1,13 @@
 ## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/pujigroovy/pujigroovy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Hello,
+My name is Pujianto. I'm from Bekasi and graduated from Gunadarma University with Economic degree. I felt a little lost in life after graduation, and not knowing what to do in life. The thing I know for certain is that I want to be a web developer.
+​
+So now I am currently doing a study in Hacktiv8. I feel that I can learn more and get the skills necessary. This kinda hard for the first but I believe that I will be get it soon. I started my own blog here and I will post my progress and a little bit of what we do each day.
+ 
+I would love to get more into techno blogging but I would also like to write about my experiences.
+​
+So, Welcome!
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
